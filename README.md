@@ -16,7 +16,7 @@ A list of additional resources on each of the main topics from GATech's OMSCS 88
 
 ### Lesson 3 - Particle Filters
 
-- [A Tutorial on Particle Filtering and Smoothing: Fifteen years later (PDF)](http://www.cs.ubc.ca/~arnaud/doucet_johansen_tutorialPF.pdf)  (From the authors of one of the seminal papers on particle filters).
+- [A Tutorial on Particle Filtering and Smoothing: Fifteen years later (PDF)](http://www.cs.ubc.ca/~arnaud/doucet_johansen_tutorialPF.pdf)
 - [Particle Filter Theory and Practice with Positioning Applications (PDF)](http://users.isy.liu.se/en/rt/fredrik/reports/09TAESpftutorial.pdf)
 - [Feedback Particle Filter:Application and Evaluation (PDF)](http://www.merl.com/publications/docs/TR2015-074.pdf)
 - [Overview of Particle Filters](http://www.anuncommonlab.com/articles/how-kalman-filters-work/)
