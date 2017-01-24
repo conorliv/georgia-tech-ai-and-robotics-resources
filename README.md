@@ -1,10 +1,8 @@
 # GATech OMSCS AI and Robotics Additional Resources
 A list of additional resources on each of the main topics from GATech's OMSCS 8803-001 class on AI and Robotics
 
-chapter 1, 2, 8: read for particle localization
-
 ### Localization
-[Bayes Theorem Short and Intuitive Explanation](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
+- [Bayes Theorem Short and Intuitive Explanation](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
 
 ### Kalman Filters
 
@@ -16,11 +14,10 @@ chapter 1, 2, 8: read for particle localization
 - [Multidimensional Kalman Filter](http://nbviewer.jupyter.org/github/balzer82/Kalman/blob/master/Kalman-Filter-CA-Ball.ipynb?create=1)
 - Chapter 3 & 7 of Course Book, Probabalistic Robotics by Sebastian Thrun
 
-Particle Filters
-http://www.cs.ubc.ca/~arnaud/doucet_johansen_tutorialPF.pdf  (From the authors of one of the seminal papers on particle filters).
-http://users.isy.liu.se/en/rt/fredrik/reports/09TAESpftutorial.pdf
+### Particle Filters
 
-http://www.merl.com/publications/docs/TR2015-074.pdf
-
-http://www.anuncommonlab.com/articles/how-kalman-filters-work/    (Note even thought the title only refers to Kalman filters, the post actually starts out with a nice overview of particle filters.)
-Chpaters 1, 2, and 8 of Course Book, Probabilistic Robotics by Sebastian Thrun
+- [A Tutorial on Particle Filtering and Smoothing: Fifteen years later](http://www.cs.ubc.ca/~arnaud/doucet_johansen_tutorialPF.pdf)  (From the authors of one of the seminal papers on particle filters).
+- [Particle Filter Theory and Practice with Positioning Applications](http://users.isy.liu.se/en/rt/fredrik/reports/09TAESpftutorial.pdf)
+- [Feedback Particle Filter:Application and Evaluation](http://www.merl.com/publications/docs/TR2015-074.pdf)
+- [Overview of Particle Filters](http://www.anuncommonlab.com/articles/how-kalman-filters-work/)
+- Chapters 1, 2, and 8 of Course Book, Probabilistic Robotics by Sebastian Thrun
