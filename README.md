@@ -28,5 +28,5 @@ A list of additional resources on each of the main topics from GATech's OMSCS 88
 
 ### Lesson 6 - SLAM
 
-[SLAM Course - 01 - Introduction - Cyrill Stachniss (Youtube Video)](https://www.youtube.com/watch?v=V9qQc5X7O0k)
-[SLAM Map Building with TurtleBot](http://wiki.ros.org/turtlebot_navigation/Tutorials/Build%20a%20map%20with%20SLAM)
+- [SLAM Course - 01 - Introduction - Cyrill Stachniss (Youtube Video)](https://www.youtube.com/watch?v=V9qQc5X7O0k)
+- [SLAM Map Building with TurtleBot](http://wiki.ros.org/turtlebot_navigation/Tutorials/Build%20a%20map%20with%20SLAM)
