@@ -8,13 +8,13 @@ chapter 1, 2, 8: read for particle localization
 
 ### Kalman Filters
 
-[How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
-[Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation](https://www.cl.cam.ac.uk/~rmf25/papers/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter.pdf)
-[FilterPy Documentation](https://filterpy.readthedocs.io/en/latest/)
-[Robot Mapping (Slides)](http://ais.informatik.uni-freiburg.de/teaching/ws12/mapping/pdf/slam04-ekf-slam.pdf)
-[Cubature Kalman Filters (CKF)](http://haranarasaratnam.com/docs/phd_thesis.pdf)
-[Multidimensional Kalman Filter](http://nbviewer.jupyter.org/github/balzer82/Kalman/blob/master/Kalman-Filter-CA-Ball.ipynb?create=1)
-Chapter 3 & 7 of Course Book, Probabalistic Robotics by Sebastian Thrun
+- [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+- [Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation](https://www.cl.cam.ac.uk/~rmf25/papers/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter.pdf)
+- [FilterPy Documentation](https://filterpy.readthedocs.io/en/latest/)
+- [Robot Mapping (Slides)](http://ais.informatik.uni-freiburg.de/teaching/ws12/mapping/pdf/slam04-ekf-slam.pdf)
+- [Cubature Kalman Filters (CKF)](http://haranarasaratnam.com/docs/phd_thesis.pdf)
+- [Multidimensional Kalman Filter](http://nbviewer.jupyter.org/github/balzer82/Kalman/blob/master/Kalman-Filter-CA-Ball.ipynb?create=1)
+- Chapter 3 & 7 of Course Book, Probabalistic Robotics by Sebastian Thrun
 
 Particle Filters
 http://www.cs.ubc.ca/~arnaud/doucet_johansen_tutorialPF.pdf  (From the authors of one of the seminal papers on particle filters).
