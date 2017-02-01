@@ -21,6 +21,8 @@ A list of additional resources on each of the main topics from GATech's OMSCS 88
 - [Feedback Particle Filter:Application and Evaluation (PDF)](http://www.merl.com/publications/docs/TR2015-074.pdf)
 - [Overview of Particle Filters](http://www.anuncommonlab.com/articles/how-kalman-filters-work/)
 - Chapters 1, 2, and 8 of Course Book, Probabilistic Robotics by Sebastian Thrun
+- [Localization in Action using Particle Filters](https://github.com/yrevar/ai_playground/blob/master/ParticleFilters/ParticleFilterLocalization.ipynb)
+- [Particle Filter Simulation](https://www.cs.utexas.edu/~teammco/misc/particle_filter/)
 
 ### Lesson 4 - Search
 
