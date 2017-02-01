@@ -24,6 +24,13 @@ A list of additional resources on each of the main topics from GATech's OMSCS 88
 
 ### Lesson 4 - Search
 
+- [A Guide to Heuristic-based Path Planning](http://www.cs.cmu.edu/~maxim/files/hsplanguide_icaps05ws.pdf)
+- [PATH FINDING - Dijkstra’s and A* Algorithm’s](http://cs.indstate.edu/hgopireddy/algor.pdf)
+- [Optimal robotic path planning using dynamic programming and randomization](http://www.sciencedirect.com.prx.library.gatech.edu/science/article/pii/009457659400158I?np=y&npKey=3fc4d58172955d802a3b9940902e099ef6510b3c8aeee77a98ce2cc08039f679)
+- [Robust Shortest Path Planning and Semicontractive Dynamic Programming](http://web.mit.edu/dimitrib/www/Robust_SP_Semicontractive.pdf)
+- [Planning by Dynamic Programming](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/DP.pdf)
+- [Mobile robot routing with dynamic programming](http://www.sciencedirect.com.prx.library.gatech.edu/science/article/pii/0278612589900034?np=y&npKey=a958b56f63e909bd4e2e12dd66815642c06c65ab1123482a23662ddcf0c10395)
+
 ### Lesson 5 - PID Control
 
 ### Lesson 6 - SLAM
