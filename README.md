@@ -23,6 +23,7 @@ A list of additional resources on each of the main topics from GATech's OMSCS 88
 - Chapters 1, 2, and 8 of Course Book, Probabilistic Robotics by Sebastian Thrun
 - [Localization in Action using Particle Filters](https://github.com/yrevar/ai_playground/blob/master/ParticleFilters/ParticleFilterLocalization.ipynb)
 - [Particle Filter Simulation](https://www.cs.utexas.edu/~teammco/misc/particle_filter/)
+- [Rao-Blackwellized Particle Filters](http://www2.informatik.uni-freiburg.de/~grisetti/teaching/ls-slam/lectures/pdf/ls-slam-06-rbpfloc.pdf)
 
 ### Lesson 4 - Search
 
