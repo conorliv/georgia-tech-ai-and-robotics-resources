@@ -36,6 +36,11 @@ A list of additional resources on each of the main topics from GATech's OMSCS 88
 
 ### Lesson 5 - PID Control
 
+- [Fast Smoothing of Motion Planning Trajectories using B-Splines (PDF)](https://wwwx.cs.unc.edu/~panj/index_files/files/ICRA11.pdf)
+- [PID for Dummies](https://www.csimn.com/CSI_pages/PIDforDummies.html)
+- [PID Control (PDF)](http://www.cds.caltech.edu/~murray/courses/cds101/fa02/caltech/astrom-ch6.pdf)
+- [The Basics of Tuning PID Loops](http://innovativecontrols.com/blog/basics-tuning-pid-loops)
+
 ### Lesson 6 - SLAM
 
 - [SLAM Course - 01 - Introduction - Cyrill Stachniss (Youtube Video)](https://www.youtube.com/watch?v=V9qQc5X7O0k)
