@@ -1,5 +1,5 @@
 # GATech OMSCS AI and Robotics Additional Resources
-A list of additional resources on each of the main topics from GATech's OMSCS 8803-001 class on AI and Robotics
+A list of additional resources on each of the main topics from GATech's OMSCS 8803-001 class on AI and Robotics.
 
 ### Lesson 1 - Localization
 - [Bayes Theorem Short and Intuitive Explanation](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
